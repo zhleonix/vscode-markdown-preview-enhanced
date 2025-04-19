@@ -684,8 +684,6 @@
     "crossnote": "file:../crossnote/",
     "crypto-js": "^4.2.0",
     "sharp": "^0.33.5"
-    "crossnote": "^0.9.14",
-    "crypto-js": "^4.2.0"
   },
   "devDependencies": {
     "@types/cheerio": "0.22.11",
